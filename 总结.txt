@@ -1,0 +1,6 @@
+1、昨天上午安装了clash for windows 翻墙软件  配置代理  ALLOW Level  打开
+2、IPv6打开打开   TUNMODE打开
+3、按照下载.yml文件  进入impoart 中，更新Download粘贴URL文件  
+4、下载浏览器插件   SwitchOmega插件
+4、visualStudio Code 软件编辑文件  
+5、下载GitHubDesktop软件
